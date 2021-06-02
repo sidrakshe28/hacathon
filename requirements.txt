@@ -34,5 +34,5 @@ South==1.0.2
 sqlparse==0.3.0
 Twisted==20.3.0
 txaio==18.8.1
-urllib3==1.25.8
+urllib3==1.26.5
 zope.interface==4.7.1
